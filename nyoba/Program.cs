@@ -8,7 +8,7 @@ namespace nyoba
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("annyrongchinggu");
-            Console.Write("hellow!");
+            Console.Write("hellow peopleeeeeeeeeee!");
         }
     }
 }
